@@ -8,7 +8,8 @@ body {
     }
 
     .nav-link:hover {
-      text-decoration: underline;
+      text-decoration: underline !important;
+      box-shadow: #cd0000;
     }
 
     .transparent-button {
