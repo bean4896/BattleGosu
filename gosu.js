@@ -1,3 +1,5 @@
+console.log("gosu.js loaded");
+
 var swiper = new Swiper(".mySwiper", {
     spaceBetween: 30,
     freeMode: true,
